@@ -1,0 +1,13 @@
+{
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/",
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_Inbox",
+  "showUnsupportedFiles": false,
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Jampen"
+  ]
+}

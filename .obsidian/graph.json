@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Templates  -path:Organisation  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"fach\":Informatik]",
+      "color": {
+        "a": 1,
+        "rgb": 7903077
+      }
+    },
+    {
+      "query": "[\"fach\":Mathematik]",
+      "color": {
+        "a": 1,
+        "rgb": 11164002
+      }
+    },
+    {
+      "query": "[\"fach\":Wirtschaftsinformatik]",
+      "color": {
+        "a": 1,
+        "rgb": 8611471
+      }
+    },
+    {
+      "query": "[\"fach\":Data Science]",
+      "color": {
+        "a": 1,
+        "rgb": 2444184
+      }
+    },
+    {
+      "query": "tag:#Fach",
+      "color": {
+        "a": 1,
+        "rgb": 6402031
+      }
+    },
+    {
+      "query": "tag:#Auftrag",
+      "color": {
+        "a": 1,
+        "rgb": 10385495
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}

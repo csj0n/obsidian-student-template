@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Überarbeitet": "checkbox",
+    "Semester": "number",
+    "ECTS": "number",
+    "Fach": "text",
+    "Datum": "date",
+    "Active": "checkbox",
+    "Abgabedatum": "datetime",
+    "Fertig": "checkbox",
+    "Typ": "multitext",
+    "Abgeschlossen": "checkbox"
+  }
+}

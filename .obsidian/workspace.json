@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "fc10af5cdab23911",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff116627645dca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00ee930aef23d4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb60374dc30ed128",
+    "type": "split",
+    "children": [
+      {
+        "id": "698dd0408d7c6157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e5aa878fa02bf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unib",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee8c6046fc07a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "df5ad6bb70aba782",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b3d9c22a4d9e8a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "fdff9df01a768747",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Study Hub.canvas",
+                "viewState": {
+                  "x": 240,
+                  "y": -30,
+                  "zoom": -0.21150410519371174
+                }
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "e1766d63bd8c843e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96b0d00de48be33",
+        "type": "tabs",
+        "dimension": 66.79389312977099,
+        "children": [
+          {
+            "id": "a780c1e8dd42292a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36b1cbef23d9a91e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "000a54e51e7d4ae7",
+        "type": "tabs",
+        "dimension": 33.20610687022901,
+        "children": [
+          {
+            "id": "e9de9ed0344a46f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbed2adcdbbac9f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "xournalpp:Create new Xournal++ note": false,
+      "hide-folders:Show hidden folders": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": false,
+      "code-files:Create Code File": false,
+      "open-vscode:VSCode": false
+    }
+  },
+  "active": "00ee930aef23d4d3",
+  "lastOpenFiles": [
+    "Study Hub.canvas",
+    "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+    "Mathematik/Mathematik.md",
+    "Informatik/Informatik.md",
+    "Templates/Fach.md",
+    "Data Science/Data Science.md",
+    "Informatik/Grundlagen der Technischen Informatik/Grundlagen der Technischen Informatik.md",
+    "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md",
+    "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/02 Was ist Informatik.md",
+    "README.md",
+    "Templates/Vorlesung.md",
+    "Studienplan.canvas",
+    "Informatik/Zukünftige Veranstaltungen/Programmieren 1/Programmieren 1.md",
+    "Informatik/Grundlagen der Technischen Informatik/Skript - Grundlagen der technischen Informatik.xopp.pdf",
+    "Informatik/Grundlagen der Technischen Informatik/Script.pdf",
+    "Informatik/Grundlagen der Technischen Informatik/Übungen/Aufgabe 3.md",
+    "Informatik/Zukünftige Veranstaltungen/Veranstaltungsplan.png",
+    "01 Organisation/Stundenpläne/Test Stundenplan.png",
+    "01 Organisation/Gesund Studienplan.canvas",
+    "01 Organisation/Studienwahl.md",
+    "Study Hub 1.canvas",
+    "home/jon/scripts/open_study_vault.sh.md",
+    "home/jon/scripts",
+    "home/jon",
+    "home",
+    "01 Organisation/Studienplanung.canvas",
+    "01 Organisation/Planung & Nachteilsausgleich.md",
+    "Templates/Auftrag.md",
+    "Informatik/Zukünftige Veranstaltungen/Programmieren 2/Programmieren 2.md",
+    "Informatik/Zukünftige Veranstaltungen/Programmieren 2",
+    "Informatik/Zukünftige Veranstaltungen/Programmieren 1",
+    "_Inbox/Untitled.md",
+    "Informatik/Veranstaltungen.md",
+    "Templates/Veranstaltung.md",
+    "Mathematik/Gymer Repetition/Zusammenfassung.pdf",
+    "Mathematik/Gymer Repetition/Übungen.xopp~",
+    "Mathematik/Gymer Repetition/Übungen.pdf",
+    "01 Organisation/Offiziell.canvas",
+    "01 Organisation/Stundenpläne/Stundenplan Sem 1.png",
+    "_Inbox/cal.md",
+    "_Inbox/Mathematik.md",
+    "_Organisation/Gesund Studienplan.canvas",
+    "02 Goodnotes/Goodnotes.md",
+    "_Organisation/Offiziell.canvas",
+    "_Organisation/Studienplanung.canvas",
+    "_Organisation/Studienwahl.md",
+    "_Organisation/Planung & Nachteilsausgleich.md",
+    "Pasted image 20240221204145.png",
+    "Pasted image 20240221204140.png",
+    "Untitled.canvas",
+    "Pasted image 20240221150400.png"
+  ]
+}

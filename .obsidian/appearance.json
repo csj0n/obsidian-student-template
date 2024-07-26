@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "readonly-canvas"
+  ],
+  "theme": "obsidian"
+}

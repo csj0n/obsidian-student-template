@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"a17f089aac9d9763","type":"text","text":"# :LiGraduationCap: Study Hub","x":-540,"y":-540,"width":365,"height":60},
+		{"id":"8362573082e1457e","type":"text","text":"## :LiListChecks: Aufträge\n```dataview\nTABLE fach as Fach, Abgabedatum\nFROM #Auftrag\nWHERE !Fertig\nAND file.folder != \"Templates\"\nSORT Abgabedatum\n```\n\n","x":-540,"y":20,"width":660,"height":460,"color":"2"},
+		{"id":"fd0cc03cdd83ab71","type":"text","text":"<iframe src=\"https://free.timeanddate.com/clock/i95ispd0/n3181/tlch3/fn11/fs20/fcfff/tct/pct/tt0/th1/ts1\" frameborder=\"0\" width=\"359\" height=\"25\" allowtransparency=\"true\"></iframe>\n","x":620,"y":-540,"width":400,"height":60},
+		{"id":"c8ea0f5394b5e9d3","type":"text","text":"","x":240,"y":-460,"width":780,"height":460},
+		{"id":"b5cbba926d19b69d","type":"text","text":"## :LiInbox: Inbox\n```dataview\nLIST\nFROM #Vorlesung \nWHERE !Überarbeitet\nAND file.folder != \"Templates\"\nSORT Fach, Datum\n```\n\n","x":720,"y":20,"width":300,"height":460,"color":"5"},
+		{"id":"63f419475140044d","type":"text","text":"## :FiCheckSquare: TODOs\n### Heute\n```tasks\ndue today\nnot done\n```\n### TODO\n```tasks\nnot done\n```\n### Heute Abgeschlossen\n```tasks\ndue today\ndone\n```\n","x":140,"y":20,"width":560,"height":460,"color":"3"},
+		{"id":"fc830dfabdf78fc3","type":"text","text":":FiLink: [Uni](https://uni.com) | [OneDrive](https://onedrive.live.com) | [E-Mail](https://outlook.office.com/) |  [Kalender](https://calendar.google.com/calendar/u/1/r/week/)","x":-155,"y":-540,"width":755,"height":60},
+		{"id":"58380ec6d47ea0af","type":"text","text":"## :LiCode2: [[Informatik]]\n```dataview\nLIST from #Veranstaltung \nWHERE Aktiv AND Fach=[[Informatik]]\n```","x":-540,"y":-460,"width":365,"height":220,"color":"4"},
+		{"id":"df49b1e3c5aa68bf","type":"text","text":"## :LiCalculator: [[Mathematik]]\n```dataview\nLIST from #Veranstaltung \nWHERE Aktiv AND Fach=[[Mathematik]]\n```","x":-155,"y":-460,"width":375,"height":220,"color":"1"},
+		{"id":"83b5a19f09b6541d","type":"text","text":"## :LiDatabase: [[Data Science]]\n```dataview\nLIST from #Veranstaltung \nWHERE Aktiv AND Fach=[[Data Science]]\n```","x":-155,"y":-220,"width":375,"height":220,"color":"#235dd1"},
+		{"id":"e6ab2110fe312079","type":"text","text":"## :LiLineChart: [[Wirtschaftsinformatik|Wirtschaftsinfo]]\n```dataview\nLIST from #Veranstaltung \nWHERE Aktiv AND Fach=[[Wirtschaftsinformatik]]\n```","x":-540,"y":-220,"width":365,"height":220,"color":"6"}
+	],
+	"edges":[]
+}

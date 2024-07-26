@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiGraduationCap",
+      "LiFolders",
+      "LiInbox",
+      "LiDatabase",
+      "LiCalculator"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Templates": "LiFiles",
+  "Wirtschaftsinformatik": {
+    "iconName": "LiLineChart",
+    "iconColor": "#8366af"
+  },
+  "Mathematik": {
+    "iconName": "LiCalculator",
+    "iconColor": "#aa5962"
+  },
+  "Data Science": {
+    "iconName": "LiDatabase",
+    "iconColor": "#254b98"
+  },
+  "Wirtschaftsinformatik/Wirtschaftsinformatik.md": "LiLineChart",
+  "_Inbox": "LiInbox",
+  "_Organisation": "LiFolders",
+  "Study Hub.canvas": "LiGraduationCap",
+  "Informatik": {
+    "iconName": "LiCode2",
+    "iconColor": "#789765"
+  }
+}

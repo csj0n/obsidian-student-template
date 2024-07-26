@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "fc10af5cdab23911",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a132abb10037e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a71c65d2788c229",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb60374dc30ed128",
+    "type": "split",
+    "children": [
+      {
+        "id": "698dd0408d7c6157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8c6046fc07a2d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d4e5aa878fa02bf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Veranstaltung",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b3d9c22a4d9e8a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e9de9ed0344a46f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "df5ad6bb70aba782",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e1766d63bd8c843e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96b0d00de48be33",
+        "type": "tabs",
+        "dimension": 71.18055555555556,
+        "children": [
+          {
+            "id": "a780c1e8dd42292a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbed2adcdbbac9f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5a36ddcb7c69e5fe",
+        "type": "tabs",
+        "dimension": 28.819444444444443,
+        "children": [
+          {
+            "id": "6adff1ef35401aac",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create new loom": false
+    }
+  },
+  "active": "0a71c65d2788c229",
+  "lastOpenFiles": [
+    "Kriminologie.md",
+    "Informatik/_Plan.md",
+    "Informatik/Grundlagen der Technischen Informatik/Was ist Informatik.md",
+    "Informatik/Grundlagen der Technischen Informatik/Grundlagen der Technischen Informatik.md",
+    "Schnuppertage/Allgemein.md",
+    "Schnuppertage/Algebra.md",
+    "Schnuppertage/Information Resource Management.md",
+    "table.md",
+    "Schnuppertage",
+    "table.loom",
+    "Today's Tasks.md",
+    "Context/Informatik.mdb",
+    "Informatik/Grundlagen der Technischen Informatik",
+    "Informatik",
+    "Bachelor",
+    "Dashboard.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Mathematik",
+    "Applied Data Science"
+  ]
+}
