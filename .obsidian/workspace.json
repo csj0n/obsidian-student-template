@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ff116627645dca1",
+        "id": "d3506f58f2260b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "00ee930aef23d4d3",
+            "id": "9db8beb00f7ebea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
-                "mode": "source",
-                "source": false
+                "file": "Study Hub.canvas",
+                "viewState": {
+                  "x": 240,
+                  "y": -30,
+                  "zoom": -0.12644833524093937
+                }
               }
             }
           }
@@ -38,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unib",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +56,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+                "file": "Study Hub.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -70,7 +73,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+                "file": "Study Hub.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,23 +88,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "fdff9df01a768747",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Study Hub.canvas",
-                "viewState": {
-                  "x": 240,
-                  "y": -30,
-                  "zoom": -0.21150410519371174
-                }
-              },
-              "pinned": true
             }
           }
         ]
@@ -158,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md"
+                "file": "Study Hub.canvas"
               }
             }
           }
@@ -175,13 +161,19 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": false,
+      "code-files:Create Code File": false,
+      "open-vscode:VSCode": false,
+      "hide-folders:Show hidden folders": false,
+      "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "00ee930aef23d4d3",
+  "active": "9db8beb00f7ebea6",
   "lastOpenFiles": [
-    "Study Hub.canvas",
+    "README.md",
     "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+    "Study Hub.canvas",
     "Mathematik/Mathematik.md",
     "Informatik/Informatik.md",
     "Templates/Fach.md",
@@ -189,7 +181,6 @@
     "Informatik/Grundlagen der Technischen Informatik/Grundlagen der Technischen Informatik.md",
     "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md",
     "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/02 Was ist Informatik.md",
-    "README.md",
     "Templates/Vorlesung.md",
     "Studienplan.canvas",
     "Informatik/Zukünftige Veranstaltungen/Programmieren 1/Programmieren 1.md",
