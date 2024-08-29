@@ -170,17 +170,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "xournalpp:Create new Xournal++ note": false,
-      "hide-folders:Show hidden folders": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": false,
-      "code-files:Create Code File": false,
-      "open-vscode:VSCode": false
+      "command-palette:Open command palette": true
     }
   },
   "active": "00ee930aef23d4d3",
