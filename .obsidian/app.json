@@ -1,13 +1,23 @@
 {
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "_Inbox",
   "showInlineTitle": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "_Inbox",
   "showUnsupportedFiles": false,
   "spellcheck": false,
   "spellcheckDictionary": [
-    "Jampen"
-  ]
+    "Jampen",
+    "Einführung",
+    " Jampe"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "promptDelete": false
 }

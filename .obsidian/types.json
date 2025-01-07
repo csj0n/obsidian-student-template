@@ -12,6 +12,7 @@
     "Abgabedatum": "datetime",
     "Fertig": "checkbox",
     "Typ": "multitext",
-    "Abgeschlossen": "checkbox"
+    "Abgeschlossen": "checkbox",
+    "Note": "number"
   }
 }

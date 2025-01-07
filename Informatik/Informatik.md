@@ -1,10 +1,11 @@
 ---
 tags:
   - Fach
+ECTS: 90
 ---
-# Informatik Overview
-## Links
-[Institut](https://example.com/) | 
+# Informatik Übersicht
+[Links]()
+
 ## Aktuelle Veranstaltungen
 ```dataview
 TABLE WITHOUT ID Semester AS Sem, file.link AS Veranstaltung, ECTS
@@ -15,8 +16,8 @@ WHERE Fach=this.file.link
 
 ## Alle Veranstaltungen
 ```dataview
-TABLE WITHOUT ID Semester AS Sem, file.link AS Veranstaltung, ECTS, Abgeschlossen AS Fertig
+TABLE WITHOUT ID Semester AS Sem, file.link AS Veranstaltung, ECTS, Note
 FROM #Veranstaltung 
 WHERE Fach=this.file.link
-SORT Semester
+SORT Abgeschlossen desc, Semester
 ```

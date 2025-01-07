@@ -1,10 +1,9 @@
 ---
-Fach: 
-Veranstaltung: 
+Fach: "[[<% tp.file.folder(true).split("/")[0] %>]]"
+Veranstaltung: "[[<% tp.file.folder(true).split("/")[1] %>]]"
 tags:
   - "#Vorlesung"
-Datum: {{date}}
-Überarbeitet:
+Datum: <% tp.date.now() %>
+Überarbeitet: false
 ---
-# {{title}}
-{{date}}
+# <% tp.file.title %>

@@ -16,7 +16,9 @@
                 "file": "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Wirtschaftsinformatik"
             }
           },
           {
@@ -26,38 +28,35 @@
               "type": "pdf",
               "state": {
                 "file": "Mathematik/Gymer Repetition/Zusammenfassung.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Zusammenfassung"
             }
           },
           {
             "id": "5f5d0c844321c6f8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "01 Organisation/Offiziell.canvas",
-                "viewState": {
-                  "x": 200.90352002441543,
-                  "y": 80.40121508637063,
-                  "zoom": -0.8892770761106772
-                }
-              }
+                "file": "Informatik/Grundlagen der technischen Informatik/Vorlesungen/06 - Fehlerdiagnose und Hasards.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "06 - Fehlerdiagnose und Hasards"
             }
           },
           {
             "id": "6833e675ca185d37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -82,13 +83,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:Veranstaltung",
+            "query": "kapitel 1",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -99,7 +102,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -107,7 +112,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -123,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md",
+            "file": "Mathematik/Analysis 1/Unterlagen/Integralrechnung Ana1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +138,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -140,10 +149,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md",
+            "file": "Mathematik/Analysis 1/Unterlagen/Zusammenfassung Analysis 1.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -152,8 +163,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md"
-          }
+            "file": "Mathematik/Analysis 1/Unterlagen/Zusammenfassung Analysis 1.pdf"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -161,7 +174,9 @@
         "type": "leaf",
         "state": {
           "type": "todo",
-          "state": {}
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo List"
         }
       }
     ],
@@ -169,59 +184,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "hide-folders:Show hidden folders": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "hide-folders:Show hidden folders": false
     }
   },
-  "active": "6833e675ca185d37",
+  "active": "5f5d0c844321c6f8",
   "lastOpenFiles": [
-    "Informatik/Grundlagen der Technischen Informatik/Grundlagen der Technischen Informatik.md",
-    "Informatik/Grundlagen der Technischen Informatik/Übungen/Aufgabe 3.md",
-    "Informatik/Grundlagen der Technischen Informatik/Script.pdf",
+    "Informatik/Grundlagen der technischen Informatik/Grundlagen der technischen Informatik.md",
     "Informatik/Informatik.md",
+    "Mathematik/Analysis 1/Analysis 1.md",
+    "Informatik/Programmierung 1/Informationen/Informationen zur Prüfung P1.pdf",
+    "Informatik/Programmierung 1/Programmierung 1.md",
+    "Mathematik/Analysis 1/Übungsserien/Serie 13 gelöst.pdf",
+    "Informatik/Programmierung 1/Serien/Serie 07.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 12 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 12.pdf",
     "Mathematik/Mathematik.md",
-    "Data Science/Data Science.md",
-    "01 Organisation/Gesund Studienplan.canvas",
-    "01 Organisation/Planung & Nachteilsausgleich.md",
-    "01 Organisation/Studienwahl.md",
+    "Mathematik/Analysis 1/Unterlagen/Differentialrechnung 2 Ana1.pdf",
+    "Mathematik/Analysis 1/Unterlagen/Zusammenfassung Analysis 1.pdf",
+    "Mathematik/Analysis 1/Unterlagen/Integralrechnung Ana1.pdf",
+    "Informatik/Programmierung 1/Serien/Serie 01.pdf",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/11 - CTL.pdf",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/11 - CTL.md",
+    "a.md",
+    "Study Hub Mobile.canvas",
+    "_Inbox/Tasks.md",
     "Study Hub.canvas",
-    "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/02 Was ist Informatik.md",
-    "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md",
+    "_Inbox/Pasted image 20240918145834.png",
+    "Data Science/Data Science.md",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/06 - Fehlerdiagnose und Hasards.md",
+    "Mathematik/Analysis 1/wichtig.md",
+    "Mathematik/Analysis 1/Übungsserien/Serie 04 korrigiert.pdf.md",
     "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
-    "README.md",
-    "Pasted image 20240323125424.png",
-    "Mathematik/Gymer Repetition/Zusammenfassung.pdf",
-    "Mathematik/Gymer Repetition/Zusammenfassung.xopp.pdf",
-    "02 Goodnotes/Goodnotes.md",
+    "Mathematik/Analysis 1/Analysis 1.sync-conflict-20241008-075146-OFHIPJT.md",
+    "Informatik/Programmierung 1/Vorlesungen/03 - Klassen des Java API Verwenden (1).md",
+    "Informatik/Programmierung 1/Vorlesungen/uml test.md",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/02 - Boolesche Funktionen.md",
+    "Informatik/Programmierung 1/Vorlesungen/Bilder/uml test.md",
+    "Informatik/Programmierung 1/Vorlesungen/01 - Einführung Programmierung.md",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/01 - Einführung GTI.md",
+    "Mathematik/Einführungskurs Mathematik/Einführungskurs Mathematik.md",
+    "Informatik/Zukünftige Veranstaltungen/Veranstaltungsplan.png",
+    "Informatik/Programmierung 1/Vorlesungen/01 - Einführung.md",
+    "Informatik/Programmierung 1/Übungsserien/Serie 1.md",
+    "Informatik/Grundlagen der Technischen Informatik/Grundlagen der Technischen Informatik.md",
+    "Mathematik/Einführungskurs Mathematik/Vorlesungen/01 -.md",
+    "01 Organisation/Gesund Studienplan.canvas",
+    "01 Organisation/Stundenpläne/Stundenplan HS2024.png",
     "01 Organisation/Offiziell.canvas",
     "01 Organisation/Studienplanung.canvas",
-    "Informatik/Grundlagen der Technischen Informatik/Skript - Grundlagen der technischen Informatik.xopp.pdf",
-    "Informatik/Grundlagen der Technischen Informatik/Script.xopp.pdf",
-    "Informatik/Veranstaltungen.md",
-    "Informatik/Zukünftige Veranstaltungen/Programmieren 2.md",
-    "02 Goodnotes",
-    "indobx.md",
-    "Informatik/Zukünftige Veranstaltungen/Programmieren 1.md",
+    "Studienplan.canvas",
+    "Pasted image 20240323125424.png",
     "_Organisation/Offiziell 1.canvas",
-    "Templates/Auftrag.md",
-    "Pasted image 20240221204140.png",
-    "_Inbox/Aufgabe 3.md",
-    "01 Organisation",
-    "Informatik/Data Science",
-    "Data Science",
-    "Mathematik",
-    "Organisation/Schnuppertage/Vorlesungen/Information Resource Management.md",
-    "Organisation/Schnuppertage/Vorlesungen/Kriminologie.md",
-    "Organisation/Schnuppertage/Vorlesungen/Programmierung 1.md",
-    "Organisation/Planung & Nachteilsausgleich.md",
-    "Organisation/Studienwahl.md",
-    "_Inbox/Mathematik.md",
-    "_Inbox/Wirtschaftsinformatik.md"
+    "Pasted image 20240221204140.png"
   ]
 }

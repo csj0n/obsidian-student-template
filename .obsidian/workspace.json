@@ -1,25 +1,24 @@
 {
   "main": {
-    "id": "fc10af5cdab23911",
+    "id": "6de326dc454f3019",
     "type": "split",
     "children": [
       {
-        "id": "d3506f58f2260b0e",
+        "id": "d7dc7c9ae54f40de",
         "type": "tabs",
         "children": [
           {
-            "id": "9db8beb00f7ebea6",
+            "id": "f2669b6f5ab2a2e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Study Hub.canvas",
-                "viewState": {
-                  "x": 240,
-                  "y": -30,
-                  "zoom": -0.12644833524093937
-                }
-              }
+                "file": "Mathematik/Analysis 1/Analysis 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analysis 1"
             }
           }
         ]
@@ -28,199 +27,232 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bb60374dc30ed128",
+    "id": "54827cc860c8871f",
     "type": "split",
     "children": [
       {
-        "id": "698dd0408d7c6157",
+        "id": "534b7575f12e507f",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e5aa878fa02bf9",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "ee8c6046fc07a2d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Study Hub.canvas",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "df5ad6bb70aba782",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Study Hub.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1b3d9c22a4d9e8a3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 248.5
-  },
-  "right": {
-    "id": "e1766d63bd8c843e",
-    "type": "split",
-    "children": [
-      {
-        "id": "f96b0d00de48be33",
-        "type": "tabs",
-        "dimension": 66.79389312977099,
-        "children": [
-          {
-            "id": "a780c1e8dd42292a",
+            "id": "2c6eb2f216cca2d7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "36b1cbef23d9a91e",
+            "id": "687ebd206e655c09",
             "type": "leaf",
             "state": {
-              "type": "todo",
-              "state": {}
+              "type": "search",
+              "state": {
+                "query": "tag:Fach",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
-          }
-        ]
-      },
-      {
-        "id": "000a54e51e7d4ae7",
-        "type": "tabs",
-        "dimension": 33.20610687022901,
-        "children": [
+          },
           {
-            "id": "e9de9ed0344a46f5",
+            "id": "86b900095e59732f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "bbed2adcdbbac9f9",
+            "id": "3695dd843cb3b17e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "Study Hub.canvas"
-              }
+                "file": "_Inbox/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 300
+  },
+  "right": {
+    "id": "2054b5864ec91b57",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f9c823374407a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2afd4450d7241b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Informatik/Grundlagen der technischen Informatik/Prüfung/erklärungen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for erklärungen"
+            }
+          },
+          {
+            "id": "f19aa802cf982797",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Informatik/Grundlagen der technischen Informatik/Prüfung/erklärungen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from erklärungen"
+            }
+          },
+          {
+            "id": "f04ddc7af8b956b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4701cd2221f7f93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatik/Grundlagen der technischen Informatik/Prüfung/erklärungen.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of erklärungen"
+            }
+          },
+          {
+            "id": "eb426a8c0e5cf284",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5d629d9766fa1c0f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "38187970146f7353",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "switcher:Open quick switcher": true,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
+      "command-palette:Open command palette": false,
+      "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": false,
       "code-files:Create Code File": false,
       "open-vscode:VSCode": false,
       "hide-folders:Show hidden folders": false,
-      "xournalpp:Create new Xournal++ note": false
+      "xournalpp:Create new Xournal++ note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9db8beb00f7ebea6",
+  "active": "f2669b6f5ab2a2e5",
   "lastOpenFiles": [
-    "README.md",
-    "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
-    "Study Hub.canvas",
+    "Mathematik/Analysis 1/Übungsserien/Repetition gelöst.pdf",
+    "Mathematik/Analysis 1/Analysis 1.md",
     "Mathematik/Mathematik.md",
+    "README.md",
+    "Study Hub.canvas",
+    "Mathematik/Analysis 1/Übungsserien/Serie 13 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 11 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie R gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 12 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 10 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 09 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 08 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 07 gelöst.pdf",
+    "Mathematik/Analysis 1/Übungsserien/Serie 04 gelöst.pdf",
+    "Study Hub Mobile.canvas",
+    "Wirtschaftsinformatik/Zukünftige Veranstaltungen/Einführung in das Management/Einführung in das Management.md",
+    "Wirtschaftsinformatik/Zukünftige Veranstaltungen/Einführung in das Finanzmanagement und Rechnungswesen/Einführung in das Finanzmanagement und Rechnungswesen.md",
+    "Wirtschaftsinformatik/Wirtschaftsinformatik.md",
+    "Mathematik/Zukünftige Veranstaltungen/Analysis 2/Analysis 2.md",
     "Informatik/Informatik.md",
-    "Templates/Fach.md",
+    "Informatik/Zukünftige Veranstaltungen/Datenbanken/Datenbanken.md",
+    "Informatik/Grundlagen der technischen Informatik/Grundlagen der technischen Informatik.md",
     "Data Science/Data Science.md",
-    "Informatik/Grundlagen der Technischen Informatik/Grundlagen der Technischen Informatik.md",
-    "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/01 Einführung.md",
-    "Informatik/Grundlagen der Technischen Informatik/Vorlesungen/02 Was ist Informatik.md",
-    "Templates/Vorlesung.md",
-    "Studienplan.canvas",
-    "Informatik/Zukünftige Veranstaltungen/Programmieren 1/Programmieren 1.md",
-    "Informatik/Grundlagen der Technischen Informatik/Skript - Grundlagen der technischen Informatik.xopp.pdf",
-    "Informatik/Grundlagen der Technischen Informatik/Script.pdf",
-    "Informatik/Grundlagen der Technischen Informatik/Übungen/Aufgabe 3.md",
-    "Informatik/Zukünftige Veranstaltungen/Veranstaltungsplan.png",
-    "01 Organisation/Stundenpläne/Test Stundenplan.png",
-    "01 Organisation/Gesund Studienplan.canvas",
-    "01 Organisation/Studienwahl.md",
-    "Study Hub 1.canvas",
-    "home/jon/scripts/open_study_vault.sh.md",
-    "home/jon/scripts",
-    "home/jon",
-    "home",
-    "01 Organisation/Studienplanung.canvas",
-    "01 Organisation/Planung & Nachteilsausgleich.md",
-    "Templates/Auftrag.md",
-    "Informatik/Zukünftige Veranstaltungen/Programmieren 2/Programmieren 2.md",
-    "Informatik/Zukünftige Veranstaltungen/Programmieren 2",
-    "Informatik/Zukünftige Veranstaltungen/Programmieren 1",
-    "_Inbox/Untitled.md",
-    "Informatik/Veranstaltungen.md",
-    "Templates/Veranstaltung.md",
-    "Mathematik/Gymer Repetition/Zusammenfassung.pdf",
-    "Mathematik/Gymer Repetition/Übungen.xopp~",
-    "Mathematik/Gymer Repetition/Übungen.pdf",
-    "01 Organisation/Offiziell.canvas",
-    "01 Organisation/Stundenpläne/Stundenplan Sem 1.png",
-    "_Inbox/cal.md",
-    "_Inbox/Mathematik.md",
-    "_Organisation/Gesund Studienplan.canvas",
-    "02 Goodnotes/Goodnotes.md",
-    "_Organisation/Offiziell.canvas",
-    "_Organisation/Studienplanung.canvas",
-    "_Organisation/Studienwahl.md",
-    "_Organisation/Planung & Nachteilsausgleich.md",
-    "Pasted image 20240221204145.png",
-    "Pasted image 20240221204140.png",
-    "Untitled.canvas",
-    "Pasted image 20240221150400.png"
+    "_Inbox/Tasks.md",
+    "Wirtschaftsinformatik/Zukünftige Veranstaltungen/Einführung in die Wirtschaftsinformatik/Einführung in die Wirtschaftsinformatik.md",
+    "Wirtschaftsinformatik/Zukünftige Veranstaltungen/Einführung in das Marketing/Einführung in das Marketing.md",
+    "Mathematik/Einführungskurs Mathematik/Einführungskurs Mathematik.md",
+    "Mathematik/Analysis 1/wichtig.md",
+    "Informatik/Programmierung 1/Programmierung 1.md",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/06 - Fehlerdiagnose und Hasards.md",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/05 - Vereinfachung von Schaltnetzen.md",
+    "Informatik/Grundlagen der technischen Informatik/Prüfung/erklärungen.md",
+    "_Inbox/Pasted image 20250102102749.png",
+    "_Inbox/Pasted image 20250102102736.png",
+    "Informatik/Grundlagen der technischen Informatik/Literatur/zusammenfassung.md",
+    "_Inbox/Pasted image 20241230141034.png",
+    "Informatik/Grundlagen der technischen Informatik/Vorlesungen/03 - Normalformen.md",
+    "Informatik/Grundlagen der technischen Informatik/Übungsserien/Serie 03 korrigiert.pdf 1.md"
   ]
 }

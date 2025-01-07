@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "FiCalendar",
       "LiGraduationCap",
       "LiFolders",
-      "LiInbox",
-      "LiDatabase"
+      "LiInbox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,7 +25,12 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
   },
   "Templates": "LiFiles",
   "Wirtschaftsinformatik": {
@@ -40,11 +45,12 @@
     "iconName": "LiDatabase",
     "iconColor": "#254b98"
   },
-  "Wirtschaftsinformatik/Wirtschaftsinformatik.md": "LiLineChart",
   "_Inbox": "LiInbox",
   "Study Hub.canvas": "LiGraduationCap",
   "Informatik": {
     "iconName": "LiCode2",
     "iconColor": "#789765"
-  }
+  },
+  "01 Organisation/Studienplan Gesund.canvas": "FiCalendar",
+  "_Inbox/Tasks.md": "LiListTodo"
 }

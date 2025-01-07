@@ -1,10 +1,11 @@
 ---
 tags:
   - Fach
+ECTS: 30
 ---
-# Data Science Overview
-## Links
-[Link](https://example.com/) | 
+# Data Science
+[Institut](https://www.unibe.ch/) | 
+
 ## Aktuelle Veranstaltungen
 ```dataview
 TABLE WITHOUT ID Semester AS Sem, file.link AS Veranstaltung, ECTS
@@ -18,4 +19,5 @@ WHERE Fach=this.file.link
 TABLE WITHOUT ID Semester AS Sem, file.link AS Veranstaltung, ECTS, Abgeschlossen AS Fertig
 FROM #Veranstaltung 
 WHERE Fach=this.file.link
+SORT Abgeschlossen desc, Semester
 ```

@@ -8,28 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"fach\":Informatik]",
+      "query": "[\"fach\":\"[[Informatik]]\"]",
       "color": {
         "a": 1,
         "rgb": 7903077
       }
     },
     {
-      "query": "[\"fach\":Mathematik]",
+      "query": "[\"fach\":\"[[Mathematik]]\"]",
       "color": {
         "a": 1,
         "rgb": 11164002
       }
     },
     {
-      "query": "[\"fach\":Wirtschaftsinformatik]",
+      "query": "[\"fach\":\"[[Wirtschaftsinformatik]]\"]",
       "color": {
         "a": 1,
         "rgb": 8611471
       }
     },
     {
-      "query": "[\"fach\":Data Science]",
+      "query": "[\"fach\":\"[[Data Science]]\"]",
       "color": {
         "a": 1,
         "rgb": 2444184
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.8560484607291887,
+  "close": true
 }

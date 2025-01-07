@@ -8,7 +8,9 @@ Dies ist meine Obsidian Vorlage für Uni Notizen.
 1.  [Git-Repo](https://github.com/csj0n/obsidian-student-template) klonen (oder das ZIP herunterladen und extrahieren)
 2. [Obsidian](https://obsidian.md/) installieren & öffnen
 3. "Open folder as vault" + Ordner auswählen
-4. Gehe aufs [[Study Hub.canvas|Study Hub]] oder zu den [[README#Uni Notizen#Inhalte|Inhalten]] unten
+4. "Trust the author & Enable Plugins"
+5. Obsidian neu starten!
+6. Gehe aufs [[Study Hub.canvas|Study Hub]] oder zu den [[README#Uni Notizen#Inhalte|Inhalten]] unten
 
 ---
 ## Inhalte
@@ -51,4 +53,4 @@ SORT Semester
 
 ---
 ## Vorlage von [Jon Jampen](https://jonjampen.ch) 
-[https://jonjampen.ch](https://jonjampen.ch/) | [hello@jonjampen.ch](mailto:hello@jonjampen.ch) | [Meine Obsidian Studiums Vorlage](https://github.com/csj0n/obsidian-student-template)
+[https://jonjampen.ch](https://jonjampen.ch/) | [hello@jonjampen.ch](mailto:hello@jonjampen.ch) | [Meine Obsidian Studiums Vorlage](https://github.com/csj0n/obsidian-student-template) | [Mein Xournal++ Plugin für Obsidian](https://obsidian.md/plugins?id=xournalpp)

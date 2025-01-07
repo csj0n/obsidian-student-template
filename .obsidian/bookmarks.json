@@ -2,13 +2,28 @@
   "items": [
     {
       "type": "file",
+      "ctime": 1728375806279,
+      "path": "Mathematik/Analysis 1/Analysis 1.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1728375818618,
+      "path": "Informatik/Grundlagen der technischen Informatik/Grundlagen der technischen Informatik.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1728375824117,
+      "path": "Informatik/Programmierung 1/Programmierung 1.md"
+    },
+    {
+      "type": "file",
       "ctime": 1708527545651,
       "path": "Study Hub.canvas",
       "title": "Study Hub"
     },
     {
       "type": "graph",
-      "ctime": 1708529837200,
+      "ctime": 1718358157151,
       "title": "Study Graph",
       "options": {
         "collapse-filter": true,
@@ -20,28 +35,28 @@
         "collapse-color-groups": false,
         "colorGroups": [
           {
-            "query": "[\"fach\":Informatik]",
+            "query": "[\"fach\":\"[[Informatik]]\"]",
             "color": {
               "a": 1,
               "rgb": 7903077
             }
           },
           {
-            "query": "[\"fach\":Mathematik]",
+            "query": "[\"fach\":\"[[Mathematik]]\"]",
             "color": {
               "a": 1,
               "rgb": 11164002
             }
           },
           {
-            "query": "[\"fach\":Wirtschaftsinformatik]",
+            "query": "[\"fach\":\"[[Wirtschaftsinformatik]]\"]",
             "color": {
               "a": 1,
               "rgb": 8611471
             }
           },
           {
-            "query": "[\"fach\":Data Science]",
+            "query": "[\"fach\":\"[[Data Science]]\"]",
             "color": {
               "a": 1,
               "rgb": 2444184

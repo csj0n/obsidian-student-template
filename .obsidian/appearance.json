@@ -1,12 +1,13 @@
 {
-  "accentColor": "",
+  "accentColor": "#617c62",
   "showViewHeader": true,
   "nativeMenus": false,
   "translucency": false,
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Catppuccin",
   "enabledCssSnippets": [
     "extended-colorschemes",
     "readonly-canvas"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Inter"
 }
